@@ -22,9 +22,10 @@ cd /opt/homebrew/opt/kafka/bin
 
 ### Results:
 
-![1704208211449](image/README/1704208211449.png)
+![1704208279490](https://file+.vscode-resource.vscode-cdn.net/Users/manoharendla/code/kafka_installation/image/README/1704208279490.png)
 
 
-![1704208231241](image/README/1704208231241.png)
+![1704208307104](image/README/1704208307104.png)
 
-![1704208243791](image/README/1704208243791.png)
+
+![1704208313412](image/README/1704208313412.png)
